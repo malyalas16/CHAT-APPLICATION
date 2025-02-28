@@ -1,0 +1,13 @@
+.logo
+{
+display: block;
+margin: auto;
+align-items: center;
+ 
+}
+.container{
+    background-color: #00ff40;
+    margin: auto;
+    max-width: 955px;
+    height: 60vh;
+}
